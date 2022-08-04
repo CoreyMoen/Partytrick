@@ -289,3 +289,6 @@ li.o--PlanSelector--planListItem:last-child {
   font-family: "Sweet sans", Arial, sans-serif !important;
   font-size: 1rem !important;
 }
+.o--Profile--parties.o--SectionGroup--sectionGroup {
+    display: none;
+}
