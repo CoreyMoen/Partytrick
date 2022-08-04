@@ -40,8 +40,6 @@
 .o--FloatLabelInput--hasFloatLabel .o--FloatLabelInput--borderWidth-2px {
     border-width: 1px !important;
 }
-.o--FloatLabelInput--hasFloatLabel
-  .o--FloatLabelInput--fieldStyle-light-border {
 
 .o--FloatLabelInput--hasFloatLabel .o--FloatLabelInput--fieldStyle-light-border {
     border-color: #17372e !important;
