@@ -1,2 +1,0 @@
-# Partytrick
-Created with CodeSandbox
