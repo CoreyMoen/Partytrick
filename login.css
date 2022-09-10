@@ -207,6 +207,11 @@ li.o--PlanSelector--planListItem:last-child {
     display: block !important;
 }
 
+/* forgot password confirmation */
+.o--Widget--widget .o--color-accent {
+    color: #f84e41;
+}
+
 /* --- profile adjustments --- */
 .o--App--profileWidget .o--App--widgetBody {
     margin: 0 !important;
@@ -322,6 +327,7 @@ li.o--PlanSelector--planListItem:last-child {
 .o--Profile--parties.o--SectionGroup--sectionGroup {
     display: none;
 }
+
 .o--Account--parties.o--SectionGroup--sectionGroup {
     display: none;
 }
