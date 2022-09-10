@@ -208,6 +208,14 @@ li.o--PlanSelector--planListItem:last-child {
 }
 
 /* forgot password confirmation */
+.state-forgotPasswordConfirmation i {
+    font-size: 80px !important;
+}
+
+.state-forgotPasswordConfirmation p {
+    margin: 16px 0 60px 0 !important;
+}
+
 .o--Widget--widget .o--color-accent {
     color: #f84e41;
 }
