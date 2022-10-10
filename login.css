@@ -358,9 +358,11 @@ li.o--PlanSelector--planListItem:last-child {
 .o--App--supportWidget .o--Widget--widgetBody h1 {
     text-align: left!important;
     margin-bottom: 0!important;
-    font-size: 2rem!important;
+    font-size: 2.5rem!important;
     line-height: 1.1!important;
-    font-weight: 500!important;
-    letter-spacing: -0.03em!important;
+    font-weight: 400!important;
+    letter-spacing: -0.01em!important;
     text-transform: none!important;
+    font-family: Ivypresto,Georgia,sans-serif !important;
+    padding-right: 28px !important;
 }
