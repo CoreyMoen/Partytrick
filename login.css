@@ -270,6 +270,14 @@ li.o--PlanSelector--planListItem:last-child {
     margin-right: 16px;
 }
 
+.o--Profile--notification-settings .o--Person-PartyEmailOptOut {
+    display: none;   
+}
+
+.o--Profile--notification-settings .o--Person-PartySMSOptOut {
+    display: none;   
+}
+
 /* menu adjustments */
 .o--NavDesktop--navDesktop ul li a {
     color: #17372e !important;
