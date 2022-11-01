@@ -34,23 +34,27 @@
 
 /* input adjustments */
 .o--FloatLabelInput--hasFloatLabel .o--FloatLabelInput--cornerShape-rounded, 
-. o--TextArea--textArea.o--TextArea--cornerShape-rounded{
+. o--TextArea--textArea.o--TextArea--cornerShape-rounded,
+.o--FloatLabelSelect--formControl.o--FloatLabelSelect--cornerShape-rounded {
     border-radius: 7px !important;
 }
 
 .o--FloatLabelInput--hasFloatLabel .o--FloatLabelInput--borderWidth-2px,
-.o--TextArea--textArea.o--TextArea--borderWidth-2px {
+.o--TextArea--textArea.o--TextArea--borderWidth-2px,
+.o--FloatLabelSelect--formControl.o--FloatLabelSelect--borderWidth-2px {
     border-width: 1px !important;
 }
 
 .o--FloatLabelInput--hasFloatLabel .o--FloatLabelInput--fieldStyle-light-border,
-.o--TextArea--textArea.o--TextArea--fieldStyle-light-border {
+.o--TextArea--textArea.o--TextArea--fieldStyle-light-border,
+.o--FloatLabelSelect--formControl.o--FloatLabelSelect--fieldStyle-light-border {
     border-color: #17372e !important;
     color: #17372e !important;
 }
 
 .o--FloatLabelInput--hasFloatLabel:hover .o--FloatLabelInput--fieldStyle-light-border,
-.o--TextArea--textArea.o--TextArea--fieldStyle-light-border:hover {
+.o--TextArea--textArea.o--TextArea--fieldStyle-light-border:hover,
+.o--FloatLabelSelect--formControl.o--FloatLabelSelect--fieldStyle-light-border:hover {
     border-color: #f94e41 !important;
     background-color: rgba(255, 216, 215, 0.32);
 }
